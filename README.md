@@ -1,2 +1,1 @@
-# Bike-Case-Study
-Google Data Analytics Capstone Project
+Bike-Case-Study
